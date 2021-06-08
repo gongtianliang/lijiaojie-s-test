@@ -1,0 +1,127 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    color: inherit;
+}
+.clearfix{
+    content: "";
+    display: block;
+    clear: both;
+}
+.top{
+    background: rgb(240, 255, 216);
+    width: 1500px;
+    height: 42px;
+    margin: 0 auto;
+}
+.daohang{
+    width: 1500px;
+    height: 100px;
+    margin: 0 auto;
+    float: left;
+}
+.daohang h2{
+    color: green;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    margin-left: 200px;
+    font-style: normal;
+
+
+}
+.daohang input{
+    float: left;
+    color: #797979;
+    height: 25px;
+    width: 200px;
+    line-height: 50px;
+    margin-top: -65px;
+    margin-left: 288px;
+}
+.daohang img{
+    float: left;
+    width: 463px;
+    height: 20px;
+    line-height: 20px;
+    margin: -50px 1000px;
+
+}
+.zhuye{
+    background: rgb(232, 255, 196);
+    width: 1500px;
+    height: 300px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.zhuye img{
+    width: 800px;
+    height: 300px;
+    margin: 0 auto;
+}
+.zhuye h3{
+    width: 300px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+    margin: -210px 740px;
+    font-size: 36px;
+
+}
+.zhuye .e{
+    height: 40px;
+    width: 40px;
+
+}
+.zhuye .you img{
+    height: 40px;
+    width: 40px;
+}
+.zhuye .xz{
+    color: #fff;
+    background-color: rgb(73, 204, 73);
+    height: 40px;
+    width: 200px;
+    line-height: 40px;
+    text-align: center;
+    font-size: 24px;
+    margin: 205px 800px;
+}
+.you{
+    width: 600px;
+    height: 100px;
+    float: left;
+}
+
+span{
+    color: green;
+}
+.you .e{
+    position: relative;
+    top:-244px;
+    left: 1002px;
+    border: rgb(101, 204, 101) solid 1px;
+}
+.you ul li{
+    float: left;
+    font-size: 24px;
+    margin: 5px;
+}
+.you p{
+    color: #797979;
+    position: relative;
+    top: -400px;
+    left: 810px;
+}
+.you ul{
+    position: relative;
+    top: -450px;
+    left: 1100px;
+}
+.you .w{
+    position: relative;
+    top: -400px;
+    left: 1320px;
+}
